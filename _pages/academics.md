@@ -2,7 +2,7 @@
 layout: page
 permalink: /academics/
 title: Academics
-description: Particularly insightful courses I've taken at Princeton
+description: The most insightful courses I've taken at Princeton
 nav: true
 nav_order: 6
 ---
