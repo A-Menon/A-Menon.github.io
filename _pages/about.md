@@ -6,7 +6,7 @@ subtitle: AI Researcher at Princeton University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_face.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     Reach out at armenon [at] princeton (dot) edu
@@ -36,7 +36,7 @@ I currently work on...
 - **Optimization** for asset generation in [Infinigen](https://infinigen.org/) with the [Princeton Vision & Learning Lab](https://pvl.cs.princeton.edu/)
 <p>and dabbled in industry at...</p>
 - [Artemis Ops](https://www.artemisops.com/) as an LLM and Backend Software Engineering Intern
-- [Palantir](https://www.palantir.com/)'s Winter Defense Tech Research Fellowship
+- [Palantir's](https://www.palantir.com/) Winter Defense Tech Research Fellowship
 
 # Research Interests
 I'm currently most interested in reinforcement learning and robotics foundation models, but also dabble in reasoning and state space models.
