@@ -43,6 +43,6 @@ I'm currently most interested in reinforcement learning and robotics foundation 
 # Other Work
 You can find my past projects and research [here](https://a-menon.github.io/projects/).
 # Awards & Honors
-| **3rd Overall**            | Anthropic Invitational Alignment Hackathon    | **2025** |
-| **2nd Overall**            | UChicago Trading Competitions                 | **2024** |
-| **Princeton Top U-20**     | Putnam                                        | **2023** |
+**3rd Overall**&emsp;Anthropic Invitational Alignment Hackathon · 2025<br>
+**2nd Overall**&emsp;UChicago Trading Competitions · 2024<br>
+**Princeton Top U-20 Scorer**&emsp;Putnam · 2023<br>
