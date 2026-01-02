@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "Projects",
-          description: "Some things I&#39;ve worked on",
+          description: "Some cool things I&#39;ve worked on",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-academics",
           title: "Academics",
-          description: "Particularly insightful courses I&#39;ve taken at Princeton",
+          description: "The most insightful courses I&#39;ve taken at Princeton",
           section: "Navigation",
           handler: () => {
             window.location.href = "/academics/";
