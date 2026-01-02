@@ -11,7 +11,7 @@ profile:
   more_info: >
     Reach out at armenon [at] princeton (dot) edu
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -42,3 +42,7 @@ I currently work on...
 I'm currently most interested in reinforcement learning and robotics foundation models, but also dabble in reasoning and state space models.
 # Other Work
 You can find my past projects and research [here](https://a-menon.github.io/projects/).
+# Awards & Honors
+**3rd Overall**&emsp;Anthropic Invitational Alignment Hackathon&emsp;**2025**<br>
+**2nd Overall**&emsp;UChicago Trading Competitions&emsp;**2024**<br>
+**Princeton Top U-20 Scorer**&emsp;Putnam&emsp;**2023**<br>
