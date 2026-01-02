@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: AI Researcher & Undergraduate Student at Princeton University
 
 profile:
   align: right
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I'm Menon, a junior at [Princeton University](https://www.cs.princeton.edu/) studying CS and Math with a focus on AI research.<br><br>
+Hi there! I'm Menon, a junior at [Princeton University](https://www.cs.princeton.edu/) studying CS and Math.<br><br>
 I currently work on...
 * **Reinforcement Learning** in the [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) under the advisory of [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php) and [Dilip Arumugam](https://dilipa.github.io/) @ Princeton
 * **LLM-Based Kernel Autogeneration** in the [Dao AI Lab](https://github.com/Dao-AILab) under the advisory of [Tri Dao](https://tridao.me/) @ [Together AI](https://www.together.ai/)/Princeton and Han Guo @ [MIT](https://www.csail.mit.edu/)
