@@ -61,9 +61,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-enhancing-transformer-programs-with-structured-biases",
+          title: 'Enhancing Transformer Programs with Structured Biases',
+          description: "a performance-enhancing modular extension of Transformer Programs (Transformers designed for mechanistic interpretability)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/BiasedTransformerPrograms/";
             },},{id: "projects-llm-homogenization-in-creative-writing",
