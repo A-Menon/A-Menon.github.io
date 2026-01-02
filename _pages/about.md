@@ -20,12 +20,12 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I'm Menon, a junior at [Princeton University](https://www.cs.princeton.edu/) studying CS and Math with a focus on AI research.</br>
+Hi there! I'm Menon, a junior at [Princeton University](https://www.cs.princeton.edu/) studying CS and Math with a focus on AI research.<br>
 I currently work on...
 * **Reinforcement Learning** in the [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) under the advisory of [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php) and [Dilip Arumugam](https://dilipa.github.io/) @ Princeton
 * **LLM-Based Kernel Autogeneration** in the [Dao AI Lab](https://github.com/Dao-AILab) under the advisory of [Tri Dao](https://tridao.me/) @ [Together AI](https://www.together.ai/)/Princeton and Han Guo @ [MIT](https://www.csail.mit.edu/)
@@ -36,3 +36,8 @@ I have previously worked on...
 and dabbled in industry at...
 - [Artemis Ops](https://www.artemisops.com/) as an LLM and Backend Software Engineering Intern
 - [Palantir](https://www.palantir.com/)'s Winter Defense Tech Research Fellowship
+<br>
+# Research Interests
+I'm currently most interested in reinforcement learning and robotics foundation models, but also dabble in reasoning and state space models.
+# Other Work
+You can find my past projects and research [here](https://a-menon.github.io/projects/).
