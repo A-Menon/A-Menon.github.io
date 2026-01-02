@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://menon.me/sitemap.xml
+Sitemap: https://menon.io/sitemap.xml
