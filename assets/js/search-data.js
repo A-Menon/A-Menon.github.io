@@ -61,11 +61,31 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project%20copy/";
+              window.location.href = "/projects/BiasedTransformerPrograms/";
+            },},{id: "projects-llm-homogenization-in-creative-writing",
+          title: 'LLM Homogenization in Creative Writing',
+          description: "investigating levels of homogenization by LLMs in creative writing and exploring methods to achieve human-like levels of stylistic and semantic diversity",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/LLMHomogenization/";
+            },},{id: "projects-profile-kernel",
+          title: 'Profile-Kernel',
+          description: "a CLI tool to profile CUDA kernels and automatically identify performance bottlenecks",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ProfileKernel/";
+            },},{id: "projects-rotoslam",
+          title: 'RotoSLAM',
+          description: "improving SLAM scale consistency for rotational motion via depth estimation augmentation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RotoSLAM/";
+            },},{id: "projects-video-reverse-engineering-in-frontier-foundation-models",
+          title: 'Video Reverse-Engineering in Frontier Foundation Models',
+          description: "an examination of modern foundation models’ visual analytical capabilities",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/VideoReverse-Engineering/";
             },},{
         id: 'social-email',
         title: 'email',
