@@ -47,6 +47,7 @@ You can find my past projects and research [here](https://a-menon.github.io/proj
 - [Modular Counts, Smarter Programs: Enhancing Transformer Program Generalization with Structured Biases](https://a-menon.github.io/assets/pdf/BiasedTransformerPrograms.pdf)
 - [Video Reverse-Engineering in Frontier Foundation Models: Are We Getting There?](https://a-menon.github.io/assets/pdf/VideoReverse-Engineering.pdf)
 - [RotoSLAM: Improving SLAM Scale Consistency for Rotational Motion](https://a-menon.github.io/assets/pdf/RotoSLAM.pdf)
+
 # Awards & Honors
 **3rd Overall**&emsp;Anthropic Invitational Alignment Hackathon&emsp;**2025**<br>
 **2nd Overall**&emsp;UChicago Trading Competitions&emsp;**2024**<br>
