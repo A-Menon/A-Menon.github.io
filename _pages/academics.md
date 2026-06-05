@@ -13,10 +13,12 @@ nav_order: 6
 **COS 598B**&emsp;Machine Behavior<br>
 **COS 597R**&emsp;Probabilistic Topics in Reinforcement Learning<br>
 **COS 585**&emsp;Information Theory and Applications<br>
+**MAE 577**&emsp;Multi-Robot Systems: Body-Brain-Colony<br>
 **ORF 570**&emsp;Transformers and Large Language Models<br>
 **ECE 539**&emsp;Optimization for Machine Learning<br>
 **ECE 538B**&emsp;Theory of Deep Weakly Supervised Learning<br>
 **ECE 538**&emsp;Behavior Imaging, Sensing, and Machine Learning<br>
+**ECE 534**&emsp;Data-Driver Robotics<br>
 **ECE 532**&emsp;Safety-Critical Robotics and AI<br>
 **COS 511**&emsp;Theoretical Machine Learning<br>
 
@@ -33,6 +35,7 @@ nav_order: 6
 ## Undergraduate Courses - Other
 
 **SPI 493**&emsp;Global Perspectives<br>
+**NEU 422**&emsp;Dynamics in Cognition<br>
 **MAT 377**&emsp;Combinatorial Mathematics<br>
 **POL 332**&emsp;The Art of Statesmanship and the Political Life<br>
 **CHV 310**&emsp;Practical Ethics<br>
