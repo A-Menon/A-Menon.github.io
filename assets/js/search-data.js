@@ -50,6 +50,16 @@ ninja.data = [{
           description: "a performance-enhancing modular extension of Transformer Programs (Transformers designed for mechanistic interpretability)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/BiasedTransformerPrograms/";
+            },},{id: "projects-coda",
+          title: 'CODA',
+          description: "a GPU kernel abstraction for simpler transformer block reparameterization",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CODA/";
+            },},{id: "projects-human-ai-complementarity",
+          title: 'Human-AI Complementarity',
+          description: "an investigation into task routing for human-ai complementarity and scalable oversight",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Complementarity/";
             },},{id: "projects-llm-homogenization-in-creative-writing",
           title: 'LLM Homogenization in Creative Writing',
           description: "investigating levels of homogenization by LLMs in creative writing and exploring methods to achieve human-like levels of stylistic and semantic diversity",
