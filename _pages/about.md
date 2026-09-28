@@ -26,7 +26,7 @@ latest_posts:
 ---
 
 <br>
-Hi there! I'm Menon, a junior at [Princeton University](https://www.cs.princeton.edu/) studying CS and Math.<br>
+Hi there! I'm Menon, a senior at [Princeton University](https://www.cs.princeton.edu/) studying CS.<br>
 I currently work on...
 - **Robotic Intelligence** in the [Princeton Robotic Intelligence and Systems Lab](https://prism.robo.princeton.edu/) under the advisory of [Dhruv Shah](https://robodhruv.github.io/) @ Princeton (stay tuned for upcoming publications...)
 - **Reinforcement Learning** in the [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) under the advisory of [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php) and [Dilip Arumugam](https://dilipa.github.io/) @ Princeton (stay tuned for upcoming publications...)

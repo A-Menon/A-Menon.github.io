@@ -16,10 +16,12 @@ nav_order: 6
 **MAE 577**&emsp;Multi-Robot Systems: Body-Brain-Colony<br>
 **ORF 570**&emsp;Transformers and Large Language Models<br>
 **ECE 539**&emsp;Optimization for Machine Learning<br>
+**ECE 539B**&emsp;Networking in the Age of AI<br>
 **ECE 538B**&emsp;Theory of Deep Weakly Supervised Learning<br>
 **ECE 538**&emsp;Behavior Imaging, Sensing, and Machine Learning<br>
 **ECE 534**&emsp;Data-Driver Robotics<br>
 **ECE 532**&emsp;Safety-Critical Robotics and AI<br>
+**COS 529**&emsp;Advanced Computer Vision<br>
 **COS 511**&emsp;Theoretical Machine Learning<br>
 
 ## Undergraduate Courses - Computer Science
@@ -27,6 +29,7 @@ nav_order: 6
 **COS 485**&emsp;Neural Networks: Theory and Applications<br>
 **COS 484**&emsp;Natural Language Processing<br>
 **COS 429**&emsp;Computer Vision<br>
+**COS 418**&emsp;Distributed Systems<br>
 **COS 330**&emsp;Great Ideas in Theoretical Computer Science<br>
 **COS 240**&emsp;Reasoning about Computation<br>
 **COS 226**&emsp;Data Structures and Algorithms<br>
@@ -35,6 +38,7 @@ nav_order: 6
 ## Undergraduate Courses - Other
 
 **SPI 493**&emsp;Global Perspectives<br>
+**CHV 406**&emsp;The Formats and Structures of Thought<br>
 **NEU 422**&emsp;Dynamics in Cognition<br>
 **MAT 377**&emsp;Combinatorial Mathematics<br>
 **POL 332**&emsp;The Art of Statesmanship and the Political Life<br>
