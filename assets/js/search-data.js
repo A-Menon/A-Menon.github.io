@@ -72,8 +72,8 @@ ninja.data = [{
           description: "investigating levels of homogenization by LLMs in creative writing and exploring methods to achieve human-like levels of stylistic and semantic diversity",
           section: "Projects",handler: () => {
               window.location.href = "/projects/LLMHomogenization/";
-            },},{id: "projects-nnmpc",
-          title: 'NNMPC',
+            },},{id: "projects-nn-mpc",
+          title: 'NN-MPC',
           description: "guided learned embedding geometry to improve imitation learning performance and induce better emergent interpretibility/control during distributional shift",
           section: "Projects",handler: () => {
               window.location.href = "/projects/NNMPC/";
