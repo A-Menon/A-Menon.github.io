@@ -32,13 +32,13 @@ I currently work on...
 - **Bayesian Reinforcement Learning** in the [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) under the advisory of [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php) and [Dilip Arumugam](https://dilipa.github.io/) @ Princeton (stay tuned for upcoming publications...)
 - **LLM Kernel-Writing Augmentation** in the [Dao AI Lab](https://github.com/Dao-AILab) under the advisory of [Tri Dao](https://tridao.me/) @ [Together AI](https://www.together.ai/)/Princeton and [Han Guo](https://han-guo.info/) @ [MIT](https://www.csail.mit.edu/) (see [latest](https://arxiv.org/abs/2605.19269))
 <p>I have previously worked on...</p>
-- **Human-AI Complementarity** through [SPAR](https://sparai.org/) under the advisory of [Rishub Jain](https://rishubjain.github.io/) @ [Google DeepMind](https://deepmind.google/)->[Sampura Research](https://sampura.org/)
+- **Human-AI Complementarity** through [SPAR](https://sparai.org/) under the advisory of [Rishub Jain](https://rishubjain.github.io/) @ [Google DeepMind](https://deepmind.google/) -> [Sampura Research](https://sampura.org/)
 - **Mechanistic Interpretability** with the [Princeton Natural and Artificial Minds Initiative](https://nam.ai.princeton.edu/) (see [here](https://arxiv.org/abs/2505.13742))
 - **Optimization** for asset generation in [Infinigen](https://infinigen.org/) with the [Princeton Vision & Learning Lab](https://pvl.cs.princeton.edu/)
 <p>and dabbled in industry at...</p>
 - [Artemis Ops](https://www.artemisops.com/) as an LLM and Backend Software Engineering Intern
 - [Palantir's](https://www.palantir.com/) Winter Defense Tech Research Fellowship
-<p>More details can be found on my [CV](https://a-menon.github.io/assets/pdf/CV.pdf)</p>
+<p>More details can be found on my CV.</p>
 
 # Research Interests
 My work focuses on embodied reasoning, primarily with respect to robotics foundation models. I utilize my joint priors from cognitive science and systems to work on efficiently replicating human-like levels of abstract reasoning on non-human hardware. Within that scope, I work on a wide range of problems, including but not limited to robotics-specific model architecture development, efficient training/inference, encoding cognitive priors, constraining embedding geometry, and guiding learned representations.
