@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "Projects",
-          description: "Some cool things I&#39;ve worked on",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-academics",
+  },{id: "nav-academics",
           title: "Academics",
           description: "The most insightful courses I&#39;ve taken at Princeton",
           section: "Navigation",
           handler: () => {
             window.location.href = "/academics/";
+          },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "Some cool things I&#39;ve worked on",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
           },
         },{id: "nav-cv",
           title: "CV",
@@ -72,6 +72,11 @@ ninja.data = [{
           description: "investigating levels of homogenization by LLMs in creative writing and exploring methods to achieve human-like levels of stylistic and semantic diversity",
           section: "Projects",handler: () => {
               window.location.href = "/projects/LLMHomogenization/";
+            },},{id: "projects-nnmpc",
+          title: 'NNMPC',
+          description: "guided learned embedding geometry to improve imitation learning performance and induce better emergent interpretibility/control during distributional shift",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/NNMPC/";
             },},{id: "projects-profile-kernel",
           title: 'Profile-Kernel',
           description: "a CLI tool to profile CUDA kernels and automatically identify performance bottlenecks",
@@ -82,6 +87,11 @@ ninja.data = [{
           description: "improving SLAM scale consistency for rotational motion via depth estimation augmentation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/RotoSLAM/";
+            },},{id: "projects-trustworthy-physical-ai",
+          title: 'Trustworthy Physical AI',
+          description: "a survey of trustworthy physical AI principles and proposed foundation for governing systems accordingly",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Trustworthy/";
             },},{id: "projects-video-reverse-engineering-in-frontier-foundation-models",
           title: 'Video Reverse-Engineering in Frontier Foundation Models',
           description: "an examination of modern foundation models’ visual analytical capabilities",
