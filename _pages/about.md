@@ -47,7 +47,7 @@ You can find my past projects and research [here](https://a-menon.github.io/proj
 - [CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs](https://arxiv.org/pdf/2605.19269) (NeurIPS 2026 Poster; Cited by NVIDIA, ByteDance)
 - [Exploring the Effectiveness of Geometrically Structured Representations for Visual Imitation](https://a-menon.github.io/assets/pdf/NNMPC.pdf)
 - [Evidence Against LLM Homogenization in Creative Writing](https://a-menon.github.io/assets/pdf/LLMHomogenization.pdf) (Cited in 2 books)
-- [Towards Trustworthy Physical AI: From Theory to Practice Across Life Cycle](https://arxiv.org/pdf/2607.22877) (Prject Advised by Yoshua Bengio)
+- [Towards Trustworthy Physical AI: From Theory to Practice Across Life Cycle](https://arxiv.org/pdf/2607.22877) (Project Advised by Yoshua Bengio)
 - [Toward Human-AI Complementarity Across Diverse Tasks](https://arxiv.org/pdf/2605.04070)
 - [RotoSLAM: Improving SLAM Scale Consistency for Rotational Motion](https://a-menon.github.io/assets/pdf/RotoSLAM.pdf)
 
