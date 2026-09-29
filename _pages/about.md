@@ -44,9 +44,11 @@ I currently work on...
 My work focuses on embodied reasoning, primarily with respect to robotics foundation models. I utilize my joint priors from cognitive science and systems to work on efficiently replicating human-like levels of abstract reasoning on non-human hardware. Within that scope, I work on a wide range of problems, including but not limited to robotics-specific model architecture development, efficient training/inference, encoding cognitive priors, constraining embedding geometry, and guiding learned representations.
 # Publications
 You can find my past projects and research [here](https://a-menon.github.io/projects/). Some highlights include...
-- [CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs](https://arxiv.org/pdf/2605.19269)
+- [CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs](https://arxiv.org/pdf/2605.19269) (NeurIPS 2026 Poster; Cited by NVIDIA, ByteDance)
+- [Exploring the Effectiveness of Geometrically Structured Representations for Visual Imitation](https://a-menon.github.io/assets/pdf/NNMPC.pdf)
+- [Evidence Against LLM Homogenization in Creative Writing](https://a-menon.github.io/assets/pdf/LLMHomogenization.pdf) (Cited in 2 books)
+- [Towards Trustworthy Physical AI: From Theory to Practice Across Life Cycle](https://arxiv.org/pdf/2607.22877) (Prject Advised by Yoshua Bengio)
 - [Toward Human-AI Complementarity Across Diverse Tasks](https://arxiv.org/pdf/2605.04070)
-- [Evidence Against LLM Homogenization in Creative Writing](https://a-menon.github.io/assets/pdf/LLMHomogenization.pdf)
 - [RotoSLAM: Improving SLAM Scale Consistency for Rotational Motion](https://a-menon.github.io/assets/pdf/RotoSLAM.pdf)
 
 # Awards & Honors

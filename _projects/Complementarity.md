@@ -3,7 +3,7 @@ layout: page
 title: Human-AI Complementarity
 description: an investigation into task routing for human-ai complementarity and scalable oversight
 img: assets/img/Complementarity.png
-redirect: https://arxiv.org/abs/2605.04070
+redirect: https://arxiv.org/pdf/2605.04070
 importance: 6
 category: work
 ---
