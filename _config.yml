@@ -194,7 +194,6 @@ exclude:
   - _posts/
   - _news/
   - _books/
-  - _pages/publications.md
   - _pages/repositories.md
   - _pages/teaching.md
   - _pages/profiles.md
@@ -283,8 +282,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Menon]
+  first_name: [Arjun]
 
   style: apa
   locale: en
