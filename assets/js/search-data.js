@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-academics",
-          title: "Academics",
-          description: "The most insightful courses I&#39;ve taken at Princeton",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/academics/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "Projects",
           description: "Some cool things I&#39;ve worked on",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
+          },
+        },{id: "nav-academics",
+          title: "Academics",
+          description: "The most insightful courses I&#39;ve taken at Princeton",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/academics/";
           },
         },{id: "nav-cv",
           title: "CV",
