@@ -38,6 +38,7 @@ I currently work on...
 <p>and dabbled in industry at...</p>
 - [Artemis Ops](https://www.artemisops.com/) as an LLM and Backend Software Engineering Intern
 - [Palantir's](https://www.palantir.com/) Winter Defense Tech Research Fellowship
+<p>More details can be found on my [CV](https://a-menon.github.io/assets/pdf/CV.pdf)</p>
 
 # Research Interests
 My work focuses on embodied reasoning, primarily with respect to robotics foundation models. I utilize my joint priors from cognitive science and systems to work on efficiently replicating human-like levels of abstract reasoning on non-human hardware. Within that scope, I work on a wide range of problems, including but not limited to robotics-specific model architecture development, efficient training/inference, encoding cognitive priors, constraining embedding geometry, and guiding learned representations.

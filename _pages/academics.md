@@ -4,7 +4,7 @@ permalink: /academics/
 title: Academics
 description: The most insightful courses I've taken at Princeton
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 ## Graduate Courses - Computer Science
